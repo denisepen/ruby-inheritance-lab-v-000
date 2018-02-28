@@ -11,7 +11,7 @@ def learn(string)
 end
 
 def knowledge
-  self.learn
+  @knowledge
 end
 
 
