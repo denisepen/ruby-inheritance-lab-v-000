@@ -10,5 +10,9 @@ def learn(string)
   @knowledge << string
 end
 
+def knowledge
+  self.learn
+end
+
 
 end
